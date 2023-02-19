@@ -1,0 +1,12 @@
+2023-02-19 20:31:07.073 [main] DEBUG [630] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6e35bc3d
+2023-02-19 20:31:07.220 [main] DEBUG [393] - Loaded 1 bean definitions from class path resource [application-context-bean.xml]
+2023-02-19 20:31:07.250 [main] DEBUG [225] - Creating shared instance of singleton bean 'main'
+2023-02-19 20:31:07.279 [main] INFO [25] - 方法执行成功!
+2023-02-19 20:31:47.165 [main] DEBUG [630] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6e35bc3d
+2023-02-19 20:31:47.244 [main] DEBUG [393] - Loaded 1 bean definitions from class path resource [application-context-bean.xml]
+2023-02-19 20:31:47.261 [main] DEBUG [225] - Creating shared instance of singleton bean 'main'
+2023-02-19 20:31:47.282 [main] INFO [25] - 方法执行成功!
+2023-02-19 21:43:36.666 [main] DEBUG [630] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6e35bc3d
+2023-02-19 21:43:36.776 [main] DEBUG [393] - Loaded 1 bean definitions from class path resource [application-context-bean.xml]
+2023-02-19 21:43:36.799 [main] DEBUG [225] - Creating shared instance of singleton bean 'main'
+2023-02-19 21:43:36.824 [main] INFO [25] - 方法执行成功!
